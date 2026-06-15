@@ -1,1 +1,1 @@
-# materi-pembangkit-lcg-Acceptance-Rejection-Gibbs-Sampler-Jaque-Bera-chi-squre-fisher-exact
+
